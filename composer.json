@@ -1,0 +1,16 @@
+{
+    "name": "perovmpr/beta-console",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Perov Alexey",
+            "email": "p-er@yandex.ru"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {"Beta\\Console\\": "Modules/beta.console/lib/"}
+    }
+
+}
