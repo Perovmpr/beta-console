@@ -11,6 +11,8 @@
 
     "autoload": {
         "psr-4": {"Beta\\Console\\": "Modules/beta.console/lib/"}
-    }
+    },
+    "homepage": "https://github.com/Perovmpr/beta-console",
+    "license": "MIT"
 
 }
